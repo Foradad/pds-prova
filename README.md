@@ -1,5 +1,5 @@
 # pds-prova
 
-modificacio des del portatil
+modificacio des del 2nportatil
 
 modificacio des del desktop
